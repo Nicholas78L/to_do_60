@@ -1,11 +1,7 @@
 swim
- and danceswim in poo
-
 read the good book
-
 sit downhave a breakfast
-play computer game
-play soccer
+play computerplay soccer
 have a shower
 watch TV
 clean the code
@@ -14,3 +10,4 @@ code something
 buy grocery
 job
 have a bath
+drink coffee
